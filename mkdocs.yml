@@ -1,0 +1,9 @@
+site_name: AkitadogのICT試験対策
+docs_dir: markdowns
+site_dir: docs
+
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
