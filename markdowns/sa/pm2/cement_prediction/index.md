@@ -9,3 +9,41 @@
 ### 概要
 
 セメント工場での特殊セメント製造において、品質異常の原因調査・運転条件の修正に時間がかかっていた。品質データと運転データを統合し、原因分析を支援するシステムをPoCレベルで構築した。
+
+## 基本情報
+
+<table>
+    <tr>
+        <th colspan=2 style="text-align:center">計画またはシステムの名称</th>
+    </tr>
+    <tr>
+        <th>名称</th>
+        <td>セメント工場の品質・運転データ統合分析システム</td>
+    </tr>
+    <tr>
+        <th colspan=2 style="text-align:center">対象とする企業・機関</th>
+    </tr>
+    <tr>
+        <th>対象とする業種</th>
+        <td>製造業（セメント）</td>
+    </tr>
+    <tr>
+        <th>企業・機関の規模</th>
+        <td>数千人</td>
+    </tr>
+    <tr>
+        <th>対象業務の領域</th>
+        <td>研究・開発</td>
+    </tr>
+    <tr>
+        <th colspan=2 style="text-align:center">システムの構成</th>
+    </tr>
+    <tr>
+        <th>システムの形態と規模</th>
+        <td>WEBシステム（サーバ2台、クライアント30台）</td>
+    </tr>
+    <tr>
+        <th>ネットワークの範囲</th>
+        <td>同一企業・同一機関の複数事業所間</td>
+    </tr>
+</table>
