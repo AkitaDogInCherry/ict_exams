@@ -1,10 +1,8 @@
 # 情報資格試験
 
-## 論文対策
+- [システムアーキテクト試験](./sa/index.md)
+    - [午後Ⅱ対策](./sa/pm2/index.md)
+        - [セメント品質管理予測システム](./sa//pm2/cement_prediction/index.md)
 
-- [設定](./paper/intro.md)
-    - [キャラ付け拡張](./paper/character.md)
-
-### 課題ごと
-
-- 
+- [データベーススペシャリスト試験](./db/index.md)
+- [共通](./cm/index.md)
