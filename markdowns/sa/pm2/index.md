@@ -9,7 +9,13 @@
 
 ### 解き進め方
 
+## 過去問
+
+- [過去問](./past_exams.md)
+
 
 ## 改変可能な題材
 
 - [セメント品質管理予測システム](./cement_prediction/index.md)
+    - 題材で過去問を解く
+        - [R5年Q1：デジタルトランスフォーメーションの推進](./cement_prediction/r5q1.md)
