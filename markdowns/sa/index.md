@@ -3,4 +3,6 @@
 ## 目次
 
 - [午後Ⅱ](./pm2/index.md)
-    - [セメント品質管理予測システム](./pm2/cement_prediction/index.md)
+    - [過去問](./pm2/past_exams.md)
+    - 題材
+        - [セメント品質管理予測システム](./pm2/cement_prediction/index.md)
